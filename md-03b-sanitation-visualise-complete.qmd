@@ -53,6 +53,8 @@ glimpse(sanitation)
 ## Task 2
 
 1.  Use the `count()` function with varname_short and varname_long to identify the definitions of the levels in these two variables.
+    -   I can't figure out how to use the 'print(n = ...)'
+    -   I tried postit community & perplexity and still couldn't figure it out.
 
 ```{r}
 sanitation |> 
